@@ -1,0 +1,27 @@
+```css
+* {
+maigin :0;
+paddding :0;
+box-sizing :border-box;
+}
+::before,
+::after {
+box-sizing :border-box;
+}
+a {
+color :inhert;
+text-decoration :none;
+}
+input,
+button {
+font-family :inhert;
+}
+ol,
+ul {
+list-style :none;
+}
+table {
+border-collapse :collapse;
+border-spacing :0;
+}
+```
